@@ -28,5 +28,6 @@
 
 <ul>
 <li><a href="http://scikit-learn.org/stable/modules/naive_bayes.html">Naive Bayes</a></li>
+<li><a href="http://scikit-learn.org/stable/modules/svm.html">Support vector Machines</a></li>
 </ul>
 
