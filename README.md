@@ -30,5 +30,6 @@
 <li><a href="http://scikit-learn.org/stable/modules/naive_bayes.html">Naive Bayes</a></li>
 <li><a href="http://scikit-learn.org/stable/modules/svm.html">Support vector Machines</a></li>
 <li><a href="http://scikit-learn.org/stable/modules/tree.html">Decision Tree</a></li>
+<li><a href="http://scikit-learn.org/stable/modules/neighbors.html">K nearest neighbour</a></li>
 </ul>
 
