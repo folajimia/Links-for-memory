@@ -31,5 +31,9 @@
 <li><a href="http://scikit-learn.org/stable/modules/svm.html">Support vector Machines</a></li>
 <li><a href="http://scikit-learn.org/stable/modules/tree.html">Decision Tree</a></li>
 <li><a href="http://scikit-learn.org/stable/modules/neighbors.html">K nearest neighbour</a></li>
+<li><a href="http://mccormickml.com/2013/12/13/adaboost-tutorial/">Adaboost tutorial</a></li>
+<li><a href="http://rob.schapire.net/papers/explaining-adaboost.pdf">Adaboost paper</a></li>
+<li><a href="http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html#sklearn.ensemble.AdaBoostClassifier">Adaboost sklearn</a></li>
+
 </ul>
 
