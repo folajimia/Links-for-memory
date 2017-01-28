@@ -42,5 +42,5 @@
 <ul>
 <li><a href="http://neuralnetworksanddeeplearning.com/">Neural Networks And Deep Learning </a></li>
 <li><a href="http://www.deeplearningbook.org/">The Deep Learning Textbook</a></li>
-<li><a href="https://www.manning.com/books/grokking-deep-learning">https://www.manning.com/books/grokking-deep-learning</a></li>
+<li><a href="https://www.manning.com/books/grokking-deep-learning">Grokking Deep Learning </a></li>
 </ul>
