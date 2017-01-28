@@ -50,4 +50,5 @@
 <ul>
 <li><a href="https://github.com/lengstrom/fast-style-transfer">Fast style transfer</a></li>
 <li><a href="https://github.com/yenchenlin/DeepLearningFlappyBird">Flappy Birds</a></li>
+<li><a href="http://selfdrivingcars.mit.edu/deeptrafficjs/">Deep traffic simulator</a></li>
 </ul>
