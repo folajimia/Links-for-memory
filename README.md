@@ -86,3 +86,12 @@
 <li><a href="https://www.youtube.com/watch?v=2FmcHiLCwTU&t=84s">Tensor Flow in 5 Mins</a></li>
 <li><a href="https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf">Tensor Flow Networks</a></li>
 </ul>
+
+<ul>
+<li><a href="https://www.tensorflow.org/">Tensor Flow</a></li>
+<li><a href="http://jupyter-notebook.readthedocs.io/en/latest/index.html">Jupyter notebook</a></li>
+<li><a href="https://www.oreilly.com/learning/hello-tensorflow">Learning tensor flow</a></li>
+<li><a href="https://github.com/aymericdamien/TensorFlow-Examples">Tensor Flow examples</a></li>
+<li><a href="https://www.youtube.com/watch?v=2FmcHiLCwTU&t=84s">Tensor Flow in 5 Mins</a></li>
+<li><a href="https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf">Tensor Flow Networks</a></li>
+</ul>
