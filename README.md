@@ -91,9 +91,20 @@
 
 <ul>
 <li><a href="https://tonypoer.io/2016/10/28/implementing-minimax-and-alpha-beta-pruning-using-python//">implementing minimax and alpha-beta pruning</a></li>
-<li><a href="http://jupyter-notebook.readthedocs.io/en/latest/index.html">Jupyter notebook</a></li>
-<li><a href="https://www.oreilly.com/learning/hello-tensorflow">Learning tensor flow</a></li>
-<li><a href="https://github.com/aymericdamien/TensorFlow-Examples">Tensor Flow examples</a></li>
-<li><a href="https://www.youtube.com/watch?v=2FmcHiLCwTU&t=84s">Tensor Flow in 5 Mins</a></li>
-<li><a href="https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf">Tensor Flow Networks</a></li>
+<li><a href="https://tonypoer.io/2016/10/08/recursively-parsing-a-list-of-lists-into-a-game-tree-using-python/">recursively parsing a list into a game-tree</a></li>
+<li><a href="https://blog.vivekpanyam.com/how-to-build-an-ai-that-wins-the-basics-of-minimax-search/">How to build AI that wins</a></li>
+<li><a href="https://github.com/aimacode">Code for the book "Artificial Intelligence: A Modern Approach</a></li>
+<li><a href="https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm">Easy breath first algorithim explanation</a></li>
+<li><a href="https://www.khanacademy.org/computing/computer-science/algorithms">Algorithms by Khan academy</a></li>
+  <li><a href="https://www.eaglobal.org/talks/working-in-ai/">Altruism talks on AI</a></li>
+  <li><a href="http://www.cse.chalmers.se/edu/year/2013/course/TIN171/slides/chapter03b.pdf">Chamers AI slides</a></li>
+</ul>
+
+
+<h2><a id="user-content-appium" class="anchor" href="#Artificial intelligence Papers" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Artificial intelligence Papers</h2>
+
+<ul>
+   <li><a href="https://www.cs.princeton.edu/courses/archive/fall06/cos402/papers/korfrubik.pdf">Finding optimal solutions to rubik's cube</a></li>
+   <li><a href="http://www.cube20.org/qtm/">Rubik solutions</a></li>
+   
 </ul>
