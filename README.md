@@ -106,5 +106,8 @@
 <ul>
    <li><a href="https://www.cs.princeton.edu/courses/archive/fall06/cos402/papers/korfrubik.pdf">Finding optimal solutions to rubik's cube</a></li>
    <li><a href="http://www.cube20.org/qtm/">Rubik solutions</a></li>
+  <li><a href="https://kushalvyas.github.io/gen_8Q.html">genetic algoithim</a></li>
+  
+  
    
 </ul>
